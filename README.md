@@ -204,4 +204,4 @@ This repository serves as the official landing page for Helldorado. The software
 **Get the most recent version of Helldorado today!**
 
 ---
-**Last updated:** 2026-11-12 17:58:23 UTC
+**Last updated:** 2026-11-12 23:29:14 UTC
